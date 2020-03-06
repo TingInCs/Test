@@ -1,2 +1,2 @@
-## Test
-# Just a test file
+# Test
+Just a test file
